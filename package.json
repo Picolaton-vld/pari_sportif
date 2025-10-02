@@ -1,0 +1,12 @@
+{
+  "name": "pari-sportif",
+  "version": "1.0.0",
+  "description": "Un site pour gérer des paris sportifs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
